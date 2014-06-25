@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDE0097B-EC2F-4382-8ADC-9F0C92CE0B0C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hoge</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE0B61D9-FB27-488C-84DF-D338FD929CD3</key>
+		<string>https://github.com/sintario/STOAutoLayoutRightAlignedLabelInScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hoge.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE0B61D9-FB27-488C-84DF-D338FD929CD3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sintario/STOAutoLayoutRightAlignedLabelInScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE0B61D9-FB27-488C-84DF-D338FD929CD3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE0B61D9-FB27-488C-84DF-D338FD929CD3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ababababa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
